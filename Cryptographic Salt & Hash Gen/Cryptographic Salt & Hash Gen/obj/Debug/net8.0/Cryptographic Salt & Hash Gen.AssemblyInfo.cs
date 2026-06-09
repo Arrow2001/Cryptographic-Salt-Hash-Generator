@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cryptographic Salt & Hash Gen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98051d8cde0f08712c2d6eeda4327ab8380fcbe5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cryptographic Salt & Hash Gen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cryptographic Salt & Hash Gen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

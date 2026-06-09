@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen.csproj": {}
+    "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Generator\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen.csproj": {
+    "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Generator\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen.csproj",
+        "projectUniqueName": "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Generator\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen.csproj",
         "projectName": "Cryptographic Salt & Hash Gen",
-        "projectPath": "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen.csproj",
+        "projectPath": "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Generator\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen.csproj",
         "packagesPath": "C:\\Users\\IainN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\obj\\",
+        "outputPath": "C:\\Users\\IainN\\OneDrive\\Desktop\\Github\\Cryptographic Salt & Hash Generator\\Cryptographic Salt & Hash Gen\\Cryptographic Salt & Hash Gen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

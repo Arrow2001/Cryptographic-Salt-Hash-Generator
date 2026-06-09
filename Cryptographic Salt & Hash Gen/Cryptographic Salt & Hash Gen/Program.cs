@@ -3,6 +3,13 @@
 
 using System.Security.Cryptography;
 
-byte[] token = RandomNumberGenerator.GetBytes(32);
-string salt = Convert.ToHexString(token).ToLower();
-Console.WriteLine(salt); 
+Console.WriteLine($"Cryptographic Salt & Hash Generator\n");
+Console.WriteLine($"Press any key to generate a new Salt (to exit: press ctrl+c).");
+
+while (true)
+{
+    Console.ReadKey(intercept: true);
+    byte[] token = RandomNumberGenerator.GetBytes(32);
+    string salt = Convert.ToHexString(token).ToLower();
+    Console.WriteLine(salt);
+}
